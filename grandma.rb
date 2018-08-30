@@ -1,4 +1,4 @@
 def speak_to_grandma(phrase)
-  if phrase.upp
+  if phrase.upcase
 
 end
